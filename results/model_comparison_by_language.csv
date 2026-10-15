@@ -1,0 +1,5 @@
+Language,Model,Reviews,Accuracy,Macro F1
+Arabic,Baseline TF-IDF,24,0.5,0.4961
+Arabic,Multilingual Embeddings,24,0.3333,0.3137
+English,Baseline TF-IDF,24,0.5,0.4932
+English,Multilingual Embeddings,24,0.5,0.4872

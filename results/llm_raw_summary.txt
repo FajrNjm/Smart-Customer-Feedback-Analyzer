@@ -1,0 +1,1 @@
+Cluster ar_1 has the highest negative review rate at 56.2%, indicating the most dissatisfied customers among them. In contrast, cluster en_0 has the lowest negative review rate at 22.2%, suggesting the least dissatisfied customers overall. These figures are derived from labeled training reviews. The clusters are exploratory and not validated as specific issue categories.

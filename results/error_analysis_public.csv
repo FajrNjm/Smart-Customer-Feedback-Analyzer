@@ -1,0 +1,11 @@
+Test Row Index,Failure Category,Possible Explanation
+11,Mixed Sentiment,Positive and negative aspects appeared together.
+31,Non-review Text,The input was not clearly a customer review.
+2,Long Review and Negation,Long text and negation may confuse the classifier.
+35,Negation and Technical Complaint,A technical complaint involved negation.
+14,Dialectal Arabic,Colloquial Arabic was difficult for the classifier.
+12,Dialectal Arabic,Informal positive Arabic wording was misclassified.
+20,Label Ambiguity,The neutral label may be ambiguous.
+3,Unusual Wording,Uncommon phrasing may affect classification.
+43,Long Review with Mixed Content,Long text included mixed information.
+7,Long Review and Domain Vocabulary,Specialized vocabulary may affect predictions.
